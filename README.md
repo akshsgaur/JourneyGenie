@@ -1,4 +1,6 @@
-AI-Powered Travel Itinerary Generator with Trip Archive
+**AI-Powered Travel Itinerary Generator with Trip Archive**
+
+
 This full-stack web application leverages Google Gemini AI to create personalized travel itineraries. Users can effortlessly plan trips and revisit past adventures. Key features include:
 AI-driven itinerary creation powered by Google Gemini
 Intuitive trip planning interface with customization options
