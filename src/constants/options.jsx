@@ -50,3 +50,5 @@ export const SelectBudgetOptions=[
         icon:'💸',
     },
 ]
+
+export const AI_PROMPT= 'Generate travel plan for Location: {location}, for {totalDays} days for {traveler} with a {budget} budget, give me hotel options list'
