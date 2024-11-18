@@ -33,7 +33,7 @@ export const SelectTravelesList=[
 export const SelectBudgetOptions=[
     {
         id:1,
-        title:'Cheap',
+        title:'Inexpensive',
         desc:'Stay conscious of costs',
         icon:'💵',
     },
